@@ -1,5 +1,3 @@
-Sure! The main issues in your Markdown are missing backticks to close the code blocks and some formatting inconsistencies. Here’s a corrected version you can copy directly:
-
 ````markdown
 # My Own Version of the Rock Your Body TikTok Trend
 
