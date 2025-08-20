@@ -1,11 +1,13 @@
 ````markdown
 # My Own Version of the Rock Your Body TikTok Trend
 
-This is a simple Python project that plays around with the **Rock Your Body TikTok trend** in my own way.
+A simple Python project inspired by the **Rock Your Body TikTok trend**. Run it locally and enjoy a fun, minimal experience!
+
+---
 
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
+Follow these steps to run the project:
 
 1. **Clone the repository**
    ```bash
@@ -24,11 +26,18 @@ Follow these steps to run the project locally:
    python lyrics.py
    ```
 
+---
+
 ## 📌 Notes
 
-* Make sure you have **Python 3** installed on your system.
-* No extra dependencies are required — just run and enjoy!
+* Ensure **Python 3** is installed on your system.
+* No additional dependencies are required — just run and enjoy!
 
-If you want, I can also make it **even cleaner and more GitHub-friendly** with badges and emphasis on Python. Do you want me to do that?
+---
+
+## ✨ About
+
+This project is just for fun and inspired by a TikTok trend. Feel free to fork it, experiment, and make your own version!
+
 ```
 
