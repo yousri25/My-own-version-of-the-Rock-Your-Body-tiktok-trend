@@ -1,4 +1,3 @@
-````markdown
 # My Own Version of the Rock Your Body TikTok Trend
 
 A simple Python project inspired by the **Rock Your Body TikTok trend**. Run it locally and enjoy a fun, minimal experience!
@@ -10,9 +9,10 @@ A simple Python project inspired by the **Rock Your Body TikTok trend**. Run it 
 Follow these steps to run the project:
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yousri25/My-own-version-of-the-Rock-Your-Body-tiktok-trend.git
-````
+   ```
 
 2. **Navigate into the project folder**
 
@@ -31,13 +31,7 @@ Follow these steps to run the project:
 ## 📌 Notes
 
 * Ensure **Python 3** is installed on your system.
-* No additional dependencies are required — just run and enjoy!
+* Ensure **[mpv](https://mpv.io/installation/)** is installed, since the script uses it to play the song (e.g. `sudo apt install mpv` on Debian/Ubuntu, `brew install mpv` on macOS).
+* No Python packages are required, just run and enjoy!
 
 ---
-
-## ✨ About
-
-This project is just for fun and inspired by a TikTok trend. Feel free to fork it, experiment, and make your own version!
-
-```
-
